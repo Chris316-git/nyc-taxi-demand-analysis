@@ -1,0 +1,49 @@
+hour,model,MAE
+0,Seasonal Naive (lag 168),1042.8035714285713
+1,Seasonal Naive (lag 168),827.9642857142857
+2,Seasonal Naive (lag 168),543.7678571428571
+3,Seasonal Naive (lag 168),396.64285714285717
+4,Seasonal Naive (lag 168),288.375
+5,Seasonal Naive (lag 168),205.05357142857142
+6,Seasonal Naive (lag 168),229.57142857142858
+7,Seasonal Naive (lag 168),428.14285714285717
+8,Seasonal Naive (lag 168),585.4464285714286
+9,Seasonal Naive (lag 168),468.5892857142857
+10,Seasonal Naive (lag 168),387.5357142857143
+11,Seasonal Naive (lag 168),500.57142857142856
+12,Seasonal Naive (lag 168),527.5357142857143
+13,Seasonal Naive (lag 168),560.6964285714286
+14,Seasonal Naive (lag 168),756.9821428571429
+15,Seasonal Naive (lag 168),639.9285714285714
+16,Seasonal Naive (lag 168),732.5
+17,Seasonal Naive (lag 168),1007.1964285714286
+18,Seasonal Naive (lag 168),1062.0892857142858
+19,Seasonal Naive (lag 168),1069.5892857142858
+20,Seasonal Naive (lag 168),977.8928571428571
+21,Seasonal Naive (lag 168),947.7321428571429
+22,Seasonal Naive (lag 168),855.1607142857143
+23,Seasonal Naive (lag 168),1047.8392857142858
+0,Gradient Boosting,707.7780216306518
+1,Gradient Boosting,596.7226886820847
+2,Gradient Boosting,397.903628090883
+3,Gradient Boosting,306.94633287827554
+4,Gradient Boosting,232.44378520645122
+5,Gradient Boosting,176.72591964301748
+6,Gradient Boosting,212.2691326376723
+7,Gradient Boosting,385.44370688760716
+8,Gradient Boosting,466.61452356099613
+9,Gradient Boosting,346.67947009109105
+10,Gradient Boosting,254.08116898067232
+11,Gradient Boosting,309.6912625701214
+12,Gradient Boosting,393.4689131476192
+13,Gradient Boosting,397.5214069027064
+14,Gradient Boosting,496.42316158720644
+15,Gradient Boosting,549.91331400862
+16,Gradient Boosting,588.4418909285433
+17,Gradient Boosting,702.4173938070852
+18,Gradient Boosting,674.2836332590217
+19,Gradient Boosting,762.2926786993257
+20,Gradient Boosting,745.8307342127788
+21,Gradient Boosting,621.8266622231403
+22,Gradient Boosting,614.4860794064582
+23,Gradient Boosting,786.798160459961

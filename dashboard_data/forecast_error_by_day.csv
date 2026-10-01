@@ -1,0 +1,15 @@
+weekday_num,weekday,model,MAE
+1,Monday,Seasonal Naive (lag 168),466.2708333333333
+2,Tuesday,Seasonal Naive (lag 168),487.5729166666667
+3,Wednesday,Seasonal Naive (lag 168),525.1145833333334
+4,Thursday,Seasonal Naive (lag 168),627.5572916666666
+5,Friday,Seasonal Naive (lag 168),789.1458333333334
+6,Saturday,Seasonal Naive (lag 168),1008.9635416666666
+7,Sunday,Seasonal Naive (lag 168),788.1770833333334
+1,Monday,Gradient Boosting,481.57950439198254
+2,Tuesday,Gradient Boosting,435.9985459727714
+3,Wednesday,Gradient Boosting,354.2252461191902
+4,Thursday,Gradient Boosting,433.17655502882394
+5,Friday,Gradient Boosting,610.2065675002976
+6,Saturday,Gradient Boosting,638.6832186026792
+7,Sunday,Gradient Boosting,466.5064326556689

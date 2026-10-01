@@ -67,6 +67,18 @@ The gradient-boosting model:
 
 ![Permutation importance](images/05_permutation_importance.png)
 
+## Interactive Dashboard
+
+An interactive Tableau Public dashboard covers all three parts of the project: demand patterns, the January 2024 vs January 2025 congestion-pricing comparison, and the 24-hour-ahead forecast.
+
+**[Open the Tableau dashboard](https://public.tableau.com/app/profile/chris.li4492/viz/NYC_Taxi_Dashboard_17908364583570)**
+
+- Dashboard 1: click a borough to filter the zone ranking and hourly heatmap.
+- Dashboard 2: click a zone in the scatter plot to highlight it in the zone-change chart. Descriptive comparison only, not a causal estimate.
+- Dashboard 3: click an hour in the error chart to filter actual vs forecast; filter by weekday/weekend.
+
+The dashboard reads aggregated CSVs from `dashboard_data/`, produced by `export_tableau_data.py`. Build notes are in `TABLEAU_DASHBOARD_GUIDE.md`.
+
 ## Project Workflow
 
 ### 1. Data Understanding
@@ -183,6 +195,11 @@ nyc-taxi-demand-analysis/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
+│
+├── export_tableau_data.py
+├── TABLEAU_DASHBOARD_GUIDE.md
+├── NYC_Taxi_Dashboard.twb
+├── dashboard_data/          # aggregated CSVs for Tableau
 │
 ├── notebook/
 │   ├── 01_data_understanding.ipynb

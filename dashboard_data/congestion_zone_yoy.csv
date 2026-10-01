@@ -1,0 +1,261 @@
+PULocationID,pickup_borough,pickup_zone,trips_2024,trips_2025,trip_change,change_pct,is_stable_zone,total_trips_2025,fee_positive_trips,fee_exposure_pct,zone_label,direction,stable_rank_change
+161,Manhattan,Midtown Center,143372.0,169797.0,26425.0,18.431074407834167,True,169797.0,150183.0,88.44855916182264,Midtown Center (Manhattan),Increase,39.0
+237,Manhattan,Upper East Side South,142625.0,163491.0,20866.0,14.62997370727432,True,163491.0,73839.0,45.16395397911811,Upper East Side South (Manhattan),Increase,48.0
+236,Manhattan,Upper East Side North,136362.0,155436.0,19074.0,13.987767853214239,True,155436.0,42411.0,27.285184899251142,Upper East Side North (Manhattan),Increase,49.0
+132,Queens,JFK Airport,145052.0,146002.0,950.0,0.6549375396409564,True,146002.0,46339.0,31.738606320461365,JFK Airport (Queens),Increase,68.0
+230,Manhattan,Times Sq/Theatre District,106219.0,125744.0,19525.0,18.381833758555437,True,125744.0,107155.0,85.21678966789668,Times Sq/Theatre District (Manhattan),Increase,40.0
+186,Manhattan,Penn Station/Madison Sq West,104447.0,119050.0,14603.0,13.981253650176646,True,119050.0,101742.0,85.46157076858462,Penn Station/Madison Sq West (Manhattan),Increase,50.0
+162,Manhattan,Midtown East,106642.0,117838.0,11196.0,10.498677819245701,True,117838.0,104786.0,88.92377671039903,Midtown East (Manhattan),Increase,57.0
+142,Manhattan,Lincoln Square East,103973.0,110472.0,6499.0,6.250661229357622,True,110472.0,55359.0,50.11134043015425,Lincoln Square East (Manhattan),Increase,65.0
+239,Manhattan,Upper West Side South,88417.0,96526.0,8109.0,9.171313208998269,True,96526.0,27032.0,28.004889874230777,Upper West Side South (Manhattan),Increase,62.0
+163,Manhattan,Midtown North,85623.0,95828.0,10205.0,11.918526564124125,True,95828.0,83550.0,87.1874608673874,Midtown North (Manhattan),Increase,55.0
+234,Manhattan,Union Sq,76096.0,95779.0,19683.0,25.86601135407906,True,95779.0,85669.0,89.44445024483446,Union Sq (Manhattan),Increase,33.0
+170,Manhattan,Murray Hill,83015.0,95529.0,12514.0,15.074384147443235,True,95529.0,84074.0,88.00887688555308,Murray Hill (Manhattan),Increase,47.0
+68,Manhattan,East Chelsea,77615.0,91150.0,13535.0,17.438639438252913,True,91150.0,79413.0,87.12342292923752,East Chelsea (Manhattan),Increase,41.0
+138,Queens,LaGuardia Airport,89473.0,89544.0,71.0,0.07935354799771999,True,89544.0,39478.0,44.087822746359336,LaGuardia Airport (Queens),Increase,70.0
+48,Manhattan,Clinton East,76410.0,84081.0,7671.0,10.039261876717708,True,84081.0,71590.0,85.14408724920017,Clinton East (Manhattan),Increase,59.0
+141,Manhattan,Lenox Hill West,73911.0,81589.0,7678.0,10.38816955527594,True,81589.0,33437.0,40.982240252975274,Lenox Hill West (Manhattan),Increase,58.0
+79,Manhattan,East Village,65871.0,81533.0,15662.0,23.776775819404595,True,81533.0,71327.0,87.48236910208136,East Village (Manhattan),Increase,36.0
+249,Manhattan,West Village,66163.0,77299.0,11136.0,16.831159409337545,True,77299.0,68494.0,88.60916700086676,West Village (Manhattan),Increase,43.0
+164,Manhattan,Midtown South,64855.0,75998.0,11143.0,17.181404671960525,True,75998.0,66080.0,86.94965656990973,Midtown South (Manhattan),Increase,42.0
+140,Manhattan,Lenox Hill East,66014.0,75019.0,9005.0,13.641045838761476,True,75019.0,28968.0,38.61421773150801,Lenox Hill East (Manhattan),Increase,52.0
+238,Manhattan,Upper West Side North,64192.0,68554.0,4362.0,6.795239282153539,True,68554.0,14238.0,20.769028794818684,Upper West Side North (Manhattan),Increase,64.0
+107,Manhattan,Gramercy,59321.0,68287.0,8966.0,15.114377707725762,True,68287.0,60156.0,88.09290201648923,Gramercy (Manhattan),Increase,46.0
+263,Manhattan,Yorkville West,59769.0,67350.0,7581.0,12.683832756111027,True,67350.0,17657.0,26.21677802524128,Yorkville West (Manhattan),Increase,54.0
+246,Manhattan,West Chelsea/Hudson Yards,50511.0,65081.0,14570.0,28.845202035200252,True,65081.0,56597.0,86.96393724743012,West Chelsea/Hudson Yards (Manhattan),Increase,30.0
+229,Manhattan,Sutton Place/Turtle Bay North,55177.0,57634.0,2457.0,4.452942349167226,True,57634.0,50780.0,88.10771419648124,Sutton Place/Turtle Bay North (Manhattan),Increase,67.0
+114,Manhattan,Greenwich Village South,40293.0,53454.0,13161.0,32.663241754150846,True,53454.0,46809.0,87.56875070153777,Greenwich Village South (Manhattan),Increase,27.0
+90,Manhattan,Flatiron,46466.0,52900.0,6434.0,13.846683596608273,True,52900.0,46533.0,87.9640831758034,Flatiron (Manhattan),Increase,51.0
+100,Manhattan,Garment District,48057.0,50701.0,2644.0,5.50179994589758,True,50701.0,43463.0,85.72414745271296,Garment District (Manhattan),Increase,66.0
+262,Manhattan,Yorkville East,42766.0,49576.0,6810.0,15.923864752373381,True,49576.0,15027.0,30.311037598838148,Yorkville East (Manhattan),Increase,45.0
+113,Manhattan,Greenwich Village North,40497.0,49393.0,8896.0,21.967059288342348,True,49393.0,43811.0,88.6988034741765,Greenwich Village North (Manhattan),Increase,37.0
+43,Manhattan,Central Park,48221.0,48493.0,272.0,0.564069596234006,True,48493.0,23634.0,48.73693110345823,Central Park (Manhattan),Increase,69.0
+231,Manhattan,TriBeCa/Civic Center,37018.0,45850.0,8832.0,23.858663352963426,True,45850.0,40516.0,88.36641221374045,TriBeCa/Civic Center (Manhattan),Increase,35.0
+137,Manhattan,Kips Bay,32956.0,39171.0,6215.0,18.858477970627504,True,39171.0,34126.0,87.12057389395216,Kips Bay (Manhattan),Increase,38.0
+143,Manhattan,Lincoln Square West,35544.0,38699.0,3155.0,8.876322304749044,True,38699.0,17112.0,44.218196852631856,Lincoln Square West (Manhattan),Increase,63.0
+144,Manhattan,Little Italy/NoLiTa,25592.0,36956.0,11364.0,44.40450140668959,True,36956.0,31631.0,85.59097304903128,Little Italy/NoLiTa (Manhattan),Increase,20.0
+148,Manhattan,Lower East Side,27932.0,36886.0,8954.0,32.05642274094229,True,36886.0,31836.0,86.30916879032695,Lower East Side (Manhattan),Increase,28.0
+233,Manhattan,UN/Turtle Bay South,33565.0,36664.0,3099.0,9.23283181885893,True,36664.0,32341.0,88.20914248308968,UN/Turtle Bay South (Manhattan),Increase,60.0
+158,Manhattan,Meatpacking/West Village West,23700.0,33256.0,9556.0,40.32067510548523,True,33256.0,29056.0,87.37070002405581,Meatpacking/West Village West (Manhattan),Increase,22.0
+211,Manhattan,SoHo,20174.0,28979.0,8805.0,43.645286011698225,True,28979.0,25142.0,86.75937748024431,SoHo (Manhattan),Increase,21.0
+151,Manhattan,Manhattan Valley,24365.0,27050.0,2685.0,11.019905602298378,True,27050.0,4656.0,17.212569316081332,Manhattan Valley (Manhattan),Increase,56.0
+75,Manhattan,East Harlem South,18241.0,23355.0,5114.0,28.03574365440491,True,23355.0,4544.0,19.456219225005352,East Harlem South (Manhattan),Increase,32.0
+13,Manhattan,Battery Park City,15862.0,21335.0,5473.0,34.503845668894215,True,21335.0,18697.0,87.63534098898523,Battery Park City (Manhattan),Increase,26.0
+50,Manhattan,Clinton West,16248.0,18354.0,2106.0,12.9615952732644,True,18354.0,15560.0,84.77716029203444,Clinton West (Manhattan),Increase,53.0
+87,Manhattan,Financial District North,12089.0,18033.0,5944.0,49.16866572917528,True,18033.0,15830.0,87.78350801308711,Financial District North (Manhattan),Increase,18.0
+125,Manhattan,Hudson Sq,13698.0,17181.0,3483.0,25.42706964520368,True,17181.0,15234.0,88.66771433560329,Hudson Sq (Manhattan),Increase,34.0
+261,Manhattan,World Trade Center,12869.0,16643.0,3774.0,29.326287978863935,True,16643.0,13474.0,80.95896172565043,World Trade Center (Manhattan),Increase,29.0
+166,Manhattan,Morningside Heights,13793.0,16114.0,2321.0,16.82737620532154,True,16114.0,2896.0,17.97194985726697,Morningside Heights (Manhattan),Increase,44.0
+41,Manhattan,Central Harlem,6821.0,11031.0,4210.0,61.72115525582759,True,11031.0,2087.0,18.919408938446196,Central Harlem (Manhattan),Increase,12.0
+70,Queens,East Elmhurst,12268.0,9878.0,-2390.0,-19.481578089338115,True,9878.0,4411.0,44.65478841870824,East Elmhurst (Queens),Decrease,72.0
+88,Manhattan,Financial District South,7001.0,9716.0,2715.0,38.780174260819884,True,9716.0,7999.0,82.32811856731165,Financial District South (Manhattan),Increase,23.0
+74,Manhattan,East Harlem North,6143.0,8913.0,2770.0,45.09197460524174,True,8913.0,1483.0,16.638617749354875,East Harlem North (Manhattan),Increase,19.0
+24,Manhattan,Bloomingdale,7846.0,8570.0,724.0,9.227631914351262,True,8570.0,1559.0,18.191365227537922,Bloomingdale (Manhattan),Increase,61.0
+4,Manhattan,Alphabet City,3561.0,7476.0,3915.0,109.94102780117944,True,7476.0,6670.0,89.21883360085607,Alphabet City (Manhattan),Increase,6.0
+45,Manhattan,Chinatown,3822.0,6180.0,2358.0,61.69544740973313,True,6180.0,5158.0,83.46278317152104,Chinatown (Manhattan),Increase,13.0
+209,Manhattan,Seaport,4478.0,6071.0,1593.0,35.57391692719965,True,6071.0,5147.0,84.78010212485587,Seaport (Manhattan),Increase,25.0
+232,Manhattan,Two Bridges/Seward Park,3732.0,5994.0,2262.0,60.61093247588425,True,5994.0,5058.0,84.38438438438438,Two Bridges/Seward Park (Manhattan),Increase,15.0
+42,Manhattan,Central Harlem North,3150.0,5980.0,2830.0,89.84126984126985,True,5980.0,1093.0,18.27759197324415,Central Harlem North (Manhattan),Increase,8.0
+224,Manhattan,Stuy Town/Peter Cooper Village,3699.0,5777.0,2078.0,56.177345228440124,True,5777.0,5179.0,89.6486065431885,Stuy Town/Peter Cooper Village (Manhattan),Increase,17.0
+145,Queens,Long Island City/Hunters Point,2753.0,4435.0,1682.0,61.09698510715583,True,4435.0,707.0,15.941375422773394,Long Island City/Hunters Point (Queens),Increase,14.0
+226,Queens,Sunnyside,2595.0,4073.0,1478.0,56.95568400770713,True,4073.0,947.0,23.250675178001472,Sunnyside (Queens),Increase,16.0
+116,Manhattan,Hamilton Heights,2193.0,3662.0,1469.0,66.98586411308709,True,3662.0,804.0,21.955215729109774,Hamilton Heights (Manhattan),Increase,11.0
+244,Manhattan,Washington Heights South,1891.0,3310.0,1419.0,75.03966155473294,True,3310.0,665.0,20.090634441087612,Washington Heights South (Manhattan),Increase,10.0
+7,Queens,Astoria,1808.0,3184.0,1376.0,76.10619469026548,True,3184.0,691.0,21.702261306532662,Astoria (Queens),Increase,9.0
+255,Brooklyn,Williamsburg (North Side),1109.0,3141.0,2032.0,183.22813345356178,True,3141.0,1092.0,34.765998089780325,Williamsburg (North Side) (Brooklyn),Increase,2.0
+61,Brooklyn,Crown Heights North,1045.0,3039.0,1994.0,190.81339712918663,True,3039.0,264.0,8.687068114511352,Crown Heights North (Brooklyn),Increase,1.0
+65,Brooklyn,Downtown Brooklyn/MetroTech,1390.0,2762.0,1372.0,98.70503597122303,True,2762.0,929.0,33.635047067342505,Downtown Brooklyn/MetroTech (Brooklyn),Increase,7.0
+152,Manhattan,Manhattanville,1960.0,2691.0,731.0,37.295918367346935,True,2691.0,601.0,22.333704942400594,Manhattanville (Manhattan),Increase,24.0
+33,Brooklyn,Brooklyn Heights,1256.0,2668.0,1412.0,112.4203821656051,True,2668.0,1091.0,40.89205397301349,Brooklyn Heights (Brooklyn),Increase,5.0
+76,Brooklyn,East New York,938.0,2621.0,1683.0,179.42430703624734,False,2621.0,48.0,1.8313620755436855,East New York (Brooklyn),Increase,
+97,Brooklyn,Fort Greene,1133.0,2535.0,1402.0,123.74227714033539,True,2535.0,606.0,23.90532544378698,Fort Greene (Brooklyn),Increase,4.0
+256,Brooklyn,Williamsburg (South Side),911.0,2352.0,1441.0,158.17782656421514,False,2352.0,878.0,37.32993197278912,Williamsburg (South Side) (Brooklyn),Increase,
+25,Brooklyn,Boerum Hill,1050.0,2351.0,1301.0,123.9047619047619,True,2351.0,551.0,23.436835389196087,Boerum Hill (Brooklyn),Increase,3.0
+130,Queens,Jamaica,753.0,2310.0,1557.0,206.77290836653387,False,2310.0,163.0,7.0562770562770565,Jamaica (Queens),Increase,
+216,Queens,South Ozone Park,732.0,2288.0,1556.0,212.56830601092895,False,2288.0,81.0,3.5402097902097904,South Ozone Park (Queens),Increase,
+181,Brooklyn,Park Slope,980.0,2261.0,1281.0,130.71428571428572,False,2261.0,362.0,16.01061477222468,Park Slope (Brooklyn),Increase,
+129,Queens,Jackson Heights,911.0,2224.0,1313.0,144.12733260153675,False,2224.0,212.0,9.532374100719425,Jackson Heights (Queens),Increase,
+66,Brooklyn,DUMBO/Vinegar Hill,702.0,2185.0,1483.0,211.25356125356126,False,2185.0,979.0,44.80549199084668,DUMBO/Vinegar Hill (Brooklyn),Increase,
+188,Brooklyn,Prospect-Lefferts Gardens,720.0,2086.0,1366.0,189.72222222222223,False,2086.0,186.0,8.916586768935762,Prospect-Lefferts Gardens (Brooklyn),Increase,
+197,Queens,Richmond Hill,488.0,1920.0,1432.0,293.44262295081967,False,1920.0,50.0,2.604166666666667,Richmond Hill (Queens),Increase,
+146,Queens,Long Island City/Queens Plaza,1491.0,1912.0,421.0,28.23608316566063,True,1912.0,636.0,33.26359832635983,Long Island City/Queens Plaza (Queens),Increase,31.0
+193,Queens,Queensbridge/Ravenswood,2174.0,1905.0,-269.0,-12.373505059797608,True,1905.0,174.0,9.133858267716535,Queensbridge/Ravenswood (Queens),Decrease,71.0
+89,Brooklyn,Flatbush/Ditmas Park,595.0,1891.0,1296.0,217.81512605042016,False,1891.0,154.0,8.143839238498149,Flatbush/Ditmas Park (Brooklyn),Increase,
+39,Brooklyn,Canarsie,671.0,1826.0,1155.0,172.1311475409836,False,1826.0,25.0,1.3691128148959473,Canarsie (Brooklyn),Increase,
+37,Brooklyn,Bushwick South,563.0,1819.0,1256.0,223.0905861456483,False,1819.0,253.0,13.908741066520067,Bushwick South (Brooklyn),Increase,
+80,Brooklyn,East Williamsburg,676.0,1809.0,1133.0,167.60355029585799,False,1809.0,418.0,23.106688778330568,East Williamsburg (Brooklyn),Increase,
+112,Brooklyn,Greenpoint,661.0,1808.0,1147.0,173.5249621785174,False,1808.0,455.0,25.16592920353982,Greenpoint (Brooklyn),Increase,
+225,Brooklyn,Stuyvesant Heights,582.0,1552.0,970.0,166.66666666666669,False,1552.0,191.0,12.306701030927837,Stuyvesant Heights (Brooklyn),Increase,
+17,Brooklyn,Bedford,516.0,1551.0,1035.0,200.58139534883722,False,1551.0,259.0,16.698903932946486,Bedford (Brooklyn),Increase,
+82,Queens,Elmhurst,530.0,1517.0,987.0,186.22641509433961,False,1517.0,173.0,11.404087013843112,Elmhurst (Queens),Increase,
+260,Queens,Woodside,812.0,1472.0,660.0,81.2807881773399,False,1472.0,268.0,18.206521739130434,Woodside (Queens),Increase,
+49,Brooklyn,Clinton Hill,504.0,1455.0,951.0,188.69047619047618,False,1455.0,313.0,21.512027491408936,Clinton Hill (Brooklyn),Increase,
+35,Brooklyn,Brownsville,544.0,1445.0,901.0,165.625,False,1445.0,31.0,2.1453287197231834,Brownsville (Brooklyn),Increase,
+95,Queens,Forest Hills,543.0,1427.0,884.0,162.79926335174954,False,1427.0,119.0,8.33917309039944,Forest Hills (Queens),Increase,
+72,Brooklyn,East Flatbush/Remsen Village,457.0,1394.0,937.0,205.0328227571116,False,1394.0,56.0,4.017216642754662,East Flatbush/Remsen Village (Brooklyn),Increase,
+168,Bronx,Mott Haven/Port Morris,662.0,1375.0,713.0,107.70392749244712,False,1375.0,213.0,15.490909090909092,Mott Haven/Port Morris (Bronx),Increase,
+179,Queens,Old Astoria,639.0,1364.0,725.0,113.4585289514867,False,1364.0,362.0,26.53958944281525,Old Astoria (Queens),Increase,
+10,Queens,Baisley Park,998.0,1327.0,329.0,32.965931863727455,False,1327.0,264.0,19.89449886963075,Baisley Park (Queens),Increase,
+36,Brooklyn,Bushwick North,320.0,1217.0,897.0,280.3125,False,1217.0,168.0,13.804437140509448,Bushwick North (Brooklyn),Increase,
+91,Brooklyn,Flatlands,460.0,1182.0,722.0,156.95652173913044,False,1182.0,26.0,2.199661590524535,Flatlands (Brooklyn),Increase,
+243,Manhattan,Washington Heights North,494.0,1161.0,667.0,135.02024291497975,False,1161.0,246.0,21.188630490956072,Washington Heights North (Manhattan),Increase,
+71,Brooklyn,East Flatbush/Farragut,401.0,1153.0,752.0,187.53117206982543,False,1153.0,48.0,4.163052905464007,East Flatbush/Farragut (Brooklyn),Increase,
+177,Brooklyn,Ocean Hill,354.0,1145.0,791.0,223.44632768361583,False,1145.0,94.0,8.209606986899564,Ocean Hill (Brooklyn),Increase,
+223,Queens,Steinway,677.0,1069.0,392.0,57.90251107828656,False,1069.0,150.0,14.03180542563143,Steinway (Queens),Increase,
+215,Queens,South Jamaica,595.0,954.0,359.0,60.33613445378151,False,954.0,104.0,10.90146750524109,South Jamaica (Queens),Increase,
+62,Brooklyn,Crown Heights South,383.0,948.0,565.0,147.5195822454308,False,948.0,82.0,8.649789029535865,Crown Heights South (Brooklyn),Increase,
+12,Manhattan,Battery Park,874.0,944.0,70.0,8.009153318077804,False,944.0,609.0,64.51271186440678,Battery Park (Manhattan),Increase,
+14,Brooklyn,Bay Ridge,398.0,939.0,541.0,135.92964824120602,False,939.0,82.0,8.732694355697552,Bay Ridge (Brooklyn),Increase,
+228,Brooklyn,Sunset Park West,211.0,912.0,701.0,332.2274881516588,False,912.0,112.0,12.280701754385964,Sunset Park West (Brooklyn),Increase,
+189,Brooklyn,Prospect Heights,344.0,844.0,500.0,145.3488372093023,False,844.0,147.0,17.417061611374407,Prospect Heights (Brooklyn),Increase,
+52,Brooklyn,Cobble Hill,530.0,826.0,296.0,55.84905660377358,False,826.0,324.0,39.22518159806295,Cobble Hill (Brooklyn),Increase,
+69,Bronx,East Concourse/Concourse Village,339.0,816.0,477.0,140.7079646017699,False,816.0,60.0,7.352941176470589,East Concourse/Concourse Village (Bronx),Increase,
+40,Brooklyn,Carroll Gardens,356.0,812.0,456.0,128.08988764044943,False,812.0,289.0,35.59113300492611,Carroll Gardens (Brooklyn),Increase,
+195,Brooklyn,Red Hook,328.0,801.0,473.0,144.20731707317074,False,801.0,175.0,21.84769038701623,Red Hook (Brooklyn),Increase,
+157,Queens,Maspeth,290.0,793.0,503.0,173.44827586206895,False,793.0,147.0,18.53720050441362,Maspeth (Queens),Increase,
+134,Queens,Kew Gardens,301.0,745.0,444.0,147.50830564784053,False,745.0,32.0,4.295302013422819,Kew Gardens (Queens),Increase,
+198,Queens,Ridgewood,209.0,739.0,530.0,253.5885167464115,False,739.0,108.0,14.614343707713125,Ridgewood (Queens),Increase,
+219,Queens,Springfield Gardens South,446.0,735.0,289.0,64.79820627802691,False,735.0,91.0,12.380952380952381,Springfield Gardens South (Queens),Increase,
+247,Bronx,West Concourse,326.0,717.0,391.0,119.93865030674846,False,717.0,68.0,9.483960948396094,West Concourse (Bronx),Increase,
+258,Queens,Woodhaven,184.0,708.0,524.0,284.7826086956522,False,708.0,49.0,6.9209039548022595,Woodhaven (Queens),Increase,
+85,Brooklyn,Erasmus,197.0,702.0,505.0,256.3451776649746,False,702.0,43.0,6.1253561253561255,Erasmus (Brooklyn),Increase,
+28,Queens,Briarwood/Jamaica Hills,438.0,696.0,258.0,58.9041095890411,False,696.0,82.0,11.781609195402298,Briarwood/Jamaica Hills (Queens),Increase,
+26,Brooklyn,Borough Park,237.0,684.0,447.0,188.60759493670886,False,684.0,36.0,5.263157894736842,Borough Park (Brooklyn),Increase,
+213,Bronx,Soundview/Castle Hill,300.0,679.0,379.0,126.33333333333334,False,679.0,61.0,8.98379970544919,Soundview/Castle Hill (Bronx),Increase,
+159,Bronx,Melrose South,289.0,678.0,389.0,134.60207612456747,False,678.0,30.0,4.424778761061947,Melrose South (Bronx),Increase,
+77,Brooklyn,East New York/Pennsylvania Avenue,244.0,675.0,431.0,176.63934426229508,False,675.0,15.0,2.2222222222222223,East New York/Pennsylvania Avenue (Brooklyn),Increase,
+55,Brooklyn,Coney Island,296.0,655.0,359.0,121.28378378378379,False,655.0,7.0,1.0687022900763359,Coney Island (Brooklyn),Increase,
+56,Queens,Corona,269.0,637.0,368.0,136.80297397769516,False,637.0,107.0,16.797488226059652,Corona (Queens),Increase,
+205,Queens,Saint Albans,342.0,634.0,292.0,85.38011695906432,False,634.0,10.0,1.5772870662460567,Saint Albans (Queens),Increase,
+63,Brooklyn,Cypress Hills,190.0,622.0,432.0,227.36842105263156,False,622.0,18.0,2.8938906752411575,Cypress Hills (Brooklyn),Increase,
+196,Queens,Rego Park,236.0,603.0,367.0,155.5084745762712,False,603.0,74.0,12.271973466003317,Rego Park (Queens),Increase,
+182,Bronx,Parkchester,232.0,590.0,358.0,154.31034482758622,False,590.0,45.0,7.627118644067797,Parkchester (Bronx),Increase,
+155,Brooklyn,Marine Park/Mill Basin,226.0,586.0,360.0,159.2920353982301,False,586.0,12.0,2.04778156996587,Marine Park/Mill Basin (Brooklyn),Increase,
+51,Bronx,Co-Op City,408.0,585.0,177.0,43.38235294117647,False,585.0,11.0,1.8803418803418803,Co-Op City (Bronx),Increase,
+92,Queens,Flushing,250.0,584.0,334.0,133.6,False,584.0,28.0,4.794520547945205,Flushing (Queens),Increase,
+165,Brooklyn,Midwood,255.0,572.0,317.0,124.31372549019608,False,572.0,16.0,2.797202797202797,Midwood (Brooklyn),Increase,
+254,Bronx,Williamsbridge/Olinville,230.0,562.0,332.0,144.34782608695653,False,562.0,18.0,3.202846975088968,Williamsbridge/Olinville (Bronx),Increase,
+93,Queens,Flushing Meadows-Corona Park,509.0,560.0,51.0,10.019646365422396,False,560.0,155.0,27.67857142857143,Flushing Meadows-Corona Park (Queens),Increase,
+222,Brooklyn,Starrett City,255.0,554.0,299.0,117.25490196078432,False,554.0,3.0,0.5415162454873645,Starrett City (Brooklyn),Increase,
+83,Queens,Elmhurst/Maspeth,181.0,537.0,356.0,196.68508287292818,False,537.0,74.0,13.780260707635009,Elmhurst/Maspeth (Queens),Increase,
+218,Queens,Springfield Gardens North,337.0,535.0,198.0,58.753709198813056,False,535.0,6.0,1.1214953271028036,Springfield Gardens North (Queens),Increase,
+106,Brooklyn,Gowanus,161.0,523.0,362.0,224.8447204968944,False,523.0,88.0,16.826003824091778,Gowanus (Brooklyn),Increase,
+133,Brooklyn,Kensington,127.0,507.0,380.0,299.21259842519686,False,507.0,83.0,16.370808678500985,Kensington (Brooklyn),Increase,
+167,Bronx,Morrisania/Melrose,289.0,479.0,190.0,65.7439446366782,False,479.0,33.0,6.8893528183716075,Morrisania/Melrose (Bronx),Increase,
+235,Bronx,University Heights/Morris Heights,261.0,479.0,218.0,83.5249042145594,False,479.0,39.0,8.1419624217119,University Heights/Morris Heights (Bronx),Increase,
+210,Brooklyn,Sheepshead Bay,211.0,469.0,258.0,122.27488151658767,False,469.0,6.0,1.279317697228145,Sheepshead Bay (Brooklyn),Increase,
+119,Bronx,Highbridge,173.0,466.0,293.0,169.364161849711,False,466.0,40.0,8.583690987124463,Highbridge (Bronx),Increase,
+191,Queens,Queens Village,258.0,460.0,202.0,78.29457364341084,False,460.0,16.0,3.4782608695652173,Queens Village (Queens),Increase,
+127,Manhattan,Inwood,261.0,448.0,187.0,71.64750957854406,False,448.0,72.0,16.071428571428573,Inwood (Manhattan),Increase,
+169,Bronx,Mount Hope,208.0,436.0,228.0,109.61538461538463,False,436.0,24.0,5.5045871559633035,Mount Hope (Bronx),Increase,
+160,Queens,Middle Village,97.0,430.0,333.0,343.29896907216494,False,430.0,60.0,13.953488372093023,Middle Village (Queens),Increase,
+212,Bronx,Soundview/Bruckner,123.0,428.0,305.0,247.96747967479672,False,428.0,40.0,9.345794392523365,Soundview/Bruckner (Bronx),Increase,
+86,Queens,Far Rockaway,275.0,391.0,116.0,42.18181818181818,False,391.0,4.0,1.0230179028132993,Far Rockaway (Queens),Increase,
+123,Brooklyn,Homecrest,153.0,388.0,235.0,153.59477124183007,False,388.0,3.0,0.7731958762886598,Homecrest (Brooklyn),Increase,
+242,Bronx,Van Nest/Morris Park,194.0,383.0,189.0,97.42268041237114,False,383.0,17.0,4.43864229765013,Van Nest/Morris Park (Bronx),Increase,
+1,EWR,Newark Airport,295.0,376.0,81.0,27.45762711864407,False,376.0,11.0,2.925531914893617,Newark Airport (EWR),Increase,
+131,Queens,Jamaica Estates,172.0,374.0,202.0,117.44186046511629,False,374.0,19.0,5.080213903743315,Jamaica Estates (Queens),Increase,
+217,Brooklyn,South Williamsburg,160.0,370.0,210.0,131.25,False,370.0,53.0,14.324324324324325,South Williamsburg (Brooklyn),Increase,
+241,Bronx,Van Cortlandt Village,164.0,367.0,203.0,123.78048780487805,False,367.0,20.0,5.449591280653951,Van Cortlandt Village (Bronx),Increase,
+78,Bronx,East Tremont,195.0,367.0,172.0,88.2051282051282,False,367.0,24.0,6.539509536784741,East Tremont (Bronx),Increase,
+124,Queens,Howard Beach,132.0,363.0,231.0,175.0,False,363.0,13.0,3.581267217630854,Howard Beach (Queens),Increase,
+121,Queens,Hillcrest/Pomonok,187.0,358.0,171.0,91.44385026737967,False,358.0,21.0,5.865921787709497,Hillcrest/Pomonok (Queens),Increase,
+117,Queens,Hammels/Arverne,248.0,356.0,108.0,43.54838709677419,False,356.0,4.0,1.1235955056179776,Hammels/Arverne (Queens),Increase,
+250,Bronx,Westchester Village/Unionport,110.0,352.0,242.0,220.00000000000003,False,352.0,23.0,6.534090909090909,Westchester Village/Unionport (Bronx),Increase,
+47,Bronx,Claremont/Bathgate,173.0,348.0,175.0,101.15606936416187,False,348.0,23.0,6.609195402298851,Claremont/Bathgate (Bronx),Increase,
+248,Bronx,West Farms/Bronx River,142.0,346.0,204.0,143.66197183098592,False,346.0,39.0,11.271676300578035,West Farms/Bronx River (Bronx),Increase,
+18,Bronx,Bedford Park,186.0,343.0,157.0,84.40860215053763,False,343.0,15.0,4.373177842565598,Bedford Park (Bronx),Increase,
+22,Brooklyn,Bensonhurst West,153.0,342.0,189.0,123.52941176470588,False,342.0,16.0,4.678362573099415,Bensonhurst West (Brooklyn),Increase,
+135,Queens,Kew Gardens Hills,151.0,341.0,190.0,125.82781456953643,False,341.0,12.0,3.519061583577713,Kew Gardens Hills (Queens),Increase,
+102,Queens,Glendale,75.0,331.0,256.0,341.33333333333337,False,331.0,22.0,6.646525679758309,Glendale (Queens),Increase,
+173,Queens,North Corona,82.0,323.0,241.0,293.9024390243902,False,323.0,22.0,6.811145510835913,North Corona (Queens),Increase,
+126,Bronx,Hunts Point,105.0,313.0,208.0,198.0952380952381,False,313.0,23.0,7.348242811501597,Hunts Point (Bronx),Increase,
+227,Brooklyn,Sunset Park East,102.0,310.0,208.0,203.92156862745097,False,310.0,32.0,10.32258064516129,Sunset Park East (Brooklyn),Increase,
+21,Brooklyn,Bensonhurst East,145.0,310.0,165.0,113.79310344827587,False,310.0,8.0,2.5806451612903225,Bensonhurst East (Brooklyn),Increase,
+208,Bronx,Schuylerville/Edgewater Park,118.0,302.0,184.0,155.9322033898305,False,302.0,34.0,11.258278145695364,Schuylerville/Edgewater Park (Bronx),Increase,
+220,Bronx,Spuyten Duyvil/Kingsbridge,151.0,299.0,148.0,98.01324503311258,False,299.0,30.0,10.033444816053512,Spuyten Duyvil/Kingsbridge (Bronx),Increase,
+259,Bronx,Woodlawn/Wakefield,119.0,299.0,180.0,151.26050420168067,False,299.0,9.0,3.0100334448160537,Woodlawn/Wakefield (Bronx),Increase,
+180,Queens,Ozone Park,105.0,294.0,189.0,180.0,False,294.0,9.0,3.061224489795918,Ozone Park (Queens),Increase,
+136,Bronx,Kingsbridge Heights,137.0,290.0,153.0,111.67883211678833,False,290.0,13.0,4.482758620689655,Kingsbridge Heights (Bronx),Increase,
+174,Bronx,Norwood,142.0,289.0,147.0,103.52112676056338,False,289.0,8.0,2.768166089965398,Norwood (Bronx),Increase,
+149,Brooklyn,Madison,126.0,287.0,161.0,127.77777777777777,False,287.0,7.0,2.4390243902439024,Madison (Brooklyn),Increase,
+257,Brooklyn,Windsor Terrace,78.0,285.0,207.0,265.38461538461536,False,285.0,63.0,22.105263157894736,Windsor Terrace (Brooklyn),Increase,
+60,Bronx,Crotona Park East,119.0,272.0,153.0,128.57142857142858,False,272.0,18.0,6.61764705882353,Crotona Park East (Bronx),Increase,
+29,Brooklyn,Brighton Beach,162.0,270.0,108.0,66.66666666666666,False,270.0,6.0,2.2222222222222223,Brighton Beach (Brooklyn),Increase,
+203,Queens,Rosedale,202.0,269.0,67.0,33.16831683168317,False,269.0,6.0,2.2304832713754648,Rosedale (Queens),Increase,
+54,Brooklyn,Columbia Street,62.0,258.0,196.0,316.1290322580645,False,258.0,90.0,34.883720930232556,Columbia Street (Brooklyn),Increase,
+34,Brooklyn,Brooklyn Navy Yard,62.0,257.0,195.0,314.51612903225805,False,257.0,61.0,23.73540856031128,Brooklyn Navy Yard (Brooklyn),Increase,
+108,Brooklyn,Gravesend,119.0,239.0,120.0,100.84033613445378,False,239.0,2.0,0.8368200836820083,Gravesend (Brooklyn),Increase,
+139,Queens,Laurelton,162.0,238.0,76.0,46.913580246913575,False,238.0,1.0,0.42016806722689076,Laurelton (Queens),Increase,
+147,Bronx,Longwood,105.0,238.0,133.0,126.66666666666666,False,238.0,22.0,9.243697478991598,Longwood (Bronx),Increase,
+81,Bronx,Eastchester,127.0,237.0,110.0,86.61417322834646,False,237.0,8.0,3.375527426160337,Eastchester (Bronx),Increase,
+19,Queens,Bellerose,82.0,234.0,152.0,185.3658536585366,False,234.0,5.0,2.1367521367521367,Bellerose (Queens),Increase,
+202,Manhattan,Roosevelt Island,167.0,232.0,65.0,38.92215568862276,False,232.0,45.0,19.396551724137932,Roosevelt Island (Manhattan),Increase,
+67,Brooklyn,Dyker Heights,103.0,225.0,122.0,118.44660194174756,False,225.0,23.0,10.222222222222223,Dyker Heights (Brooklyn),Increase,
+32,Bronx,Bronxdale,132.0,220.0,88.0,66.66666666666666,False,220.0,8.0,3.6363636363636362,Bronxdale (Bronx),Increase,
+185,Bronx,Pelham Parkway,125.0,210.0,85.0,68.0,False,210.0,10.0,4.761904761904762,Pelham Parkway (Bronx),Increase,
+38,Queens,Cambria Heights,143.0,210.0,67.0,46.85314685314685,False,210.0,10.0,4.761904761904762,Cambria Heights (Queens),Increase,
+53,Queens,College Point,48.0,205.0,157.0,327.08333333333337,False,205.0,17.0,8.292682926829269,College Point (Queens),Increase,
+122,Queens,Hollis,79.0,200.0,121.0,153.1645569620253,False,200.0,2.0,1.0,Hollis (Queens),Increase,
+20,Bronx,Belmont,130.0,199.0,69.0,53.07692307692308,False,199.0,11.0,5.527638190954774,Belmont (Bronx),Increase,
+101,Queens,Glen Oaks,56.0,184.0,128.0,228.57142857142856,False,184.0,6.0,3.260869565217391,Glen Oaks (Queens),Increase,
+252,Queens,Whitestone,71.0,180.0,109.0,153.52112676056336,False,180.0,10.0,5.555555555555555,Whitestone (Queens),Increase,
+171,Queens,Murray Hill-Queens,79.0,175.0,96.0,121.51898734177216,False,175.0,8.0,4.571428571428571,Murray Hill-Queens (Queens),Increase,
+3,Bronx,Allerton/Pelham Gardens,105.0,175.0,70.0,66.66666666666666,False,175.0,7.0,4.0,Allerton/Pelham Gardens (Bronx),Increase,
+98,Queens,Fresh Meadows,76.0,169.0,93.0,122.36842105263158,False,169.0,5.0,2.9585798816568047,Fresh Meadows (Queens),Increase,
+207,Queens,Saint Michaels Cemetery/Woodside,208.0,167.0,-41.0,-19.71153846153846,False,167.0,25.0,14.97005988023952,Saint Michaels Cemetery/Woodside (Queens),Decrease,
+200,Bronx,Riverdale/North Riverdale/Fieldston,98.0,160.0,62.0,63.26530612244898,False,160.0,20.0,12.5,Riverdale/North Riverdale/Fieldston (Bronx),Increase,
+11,Brooklyn,Bath Beach,58.0,159.0,101.0,174.13793103448276,False,159.0,7.0,4.40251572327044,Bath Beach (Brooklyn),Increase,
+94,Bronx,Fordham South,91.0,158.0,67.0,73.62637362637363,False,158.0,5.0,3.1645569620253164,Fordham South (Bronx),Increase,
+192,Queens,Queensboro Hill,65.0,146.0,81.0,124.61538461538461,False,146.0,7.0,4.794520547945205,Queensboro Hill (Queens),Increase,
+150,Brooklyn,Manhattan Beach,82.0,139.0,57.0,69.51219512195121,False,139.0,5.0,3.597122302158273,Manhattan Beach (Brooklyn),Increase,
+178,Brooklyn,Ocean Parkway South,60.0,137.0,77.0,128.33333333333334,False,137.0,4.0,2.9197080291970803,Ocean Parkway South (Brooklyn),Increase,
+175,Queens,Oakland Gardens,56.0,135.0,79.0,141.07142857142858,False,135.0,9.0,6.666666666666667,Oakland Gardens (Queens),Increase,
+201,Queens,Rockaway Park,80.0,134.0,54.0,67.5,False,134.0,5.0,3.731343283582089,Rockaway Park (Queens),Increase,
+16,Queens,Bayside,80.0,120.0,40.0,50.0,False,120.0,3.0,2.5,Bayside (Queens),Increase,
+194,Manhattan,Randalls Island,98.0,120.0,22.0,22.448979591836736,False,120.0,17.0,14.166666666666666,Randalls Island (Manhattan),Increase,
+9,Queens,Auburndale,57.0,116.0,59.0,103.50877192982458,False,116.0,3.0,2.586206896551724,Auburndale (Queens),Increase,
+183,Bronx,Pelham Bay,47.0,111.0,64.0,136.17021276595744,False,111.0,7.0,6.306306306306306,Pelham Bay (Bronx),Increase,
+64,Queens,Douglaston,49.0,110.0,61.0,124.48979591836735,False,110.0,8.0,7.2727272727272725,Douglaston (Queens),Increase,
+190,Brooklyn,Prospect Park,53.0,97.0,44.0,83.01886792452831,False,97.0,12.0,12.371134020618557,Prospect Park (Brooklyn),Increase,
+15,Queens,Bay Terrace/Fort Totten,38.0,97.0,59.0,155.26315789473685,False,97.0,5.0,5.154639175257731,Bay Terrace/Fort Totten (Queens),Increase,
+6,Staten Island,Arrochar/Fort Wadsworth,20.0,87.0,67.0,335.0,False,87.0,8.0,9.195402298850574,Arrochar/Fort Wadsworth (Staten Island),Increase,
+73,Queens,East Flushing,43.0,84.0,41.0,95.34883720930233,False,84.0,1.0,1.1904761904761905,East Flushing (Queens),Increase,
+153,Manhattan,Marble Hill,49.0,63.0,14.0,28.57142857142857,False,63.0,2.0,3.1746031746031744,Marble Hill (Manhattan),Increase,
+154,Brooklyn,Marine Park/Floyd Bennett Field,58.0,55.0,-3.0,-5.172413793103448,False,55.0,1.0,1.8181818181818181,Marine Park/Floyd Bennett Field (Brooklyn),Decrease,
+31,Bronx,Bronx Park,7.0,37.0,30.0,428.57142857142856,False,37.0,3.0,8.108108108108109,Bronx Park (Bronx),Increase,
+240,Bronx,Van Cortlandt Park,18.0,36.0,18.0,100.0,False,36.0,4.0,11.11111111111111,Van Cortlandt Park (Bronx),Increase,
+128,Manhattan,Inwood Hill Park,22.0,36.0,14.0,63.63636363636363,False,36.0,7.0,19.444444444444446,Inwood Hill Park (Manhattan),Increase,
+57,Queens,Corona,10.0,34.0,24.0,240.0,False,34.0,1.0,2.941176470588235,Corona (Queens),Increase,
+214,Staten Island,South Beach/Dongan Hills,4.0,34.0,30.0,750.0,False,34.0,4.0,11.76470588235294,South Beach/Dongan Hills (Staten Island),Increase,
+221,Staten Island,Stapleton,4.0,32.0,28.0,700.0,False,32.0,7.0,21.875,Stapleton (Staten Island),Increase,
+58,Bronx,Country Club,6.0,29.0,23.0,383.33333333333337,False,29.0,5.0,17.24137931034483,Country Club (Bronx),Increase,
+96,Queens,Forest Park/Highland Park,12.0,29.0,17.0,141.66666666666669,False,29.0,2.0,6.896551724137931,Forest Park/Highland Park (Queens),Increase,
+8,Queens,Astoria Park,11.0,22.0,11.0,100.0,False,22.0,5.0,22.727272727272727,Astoria Park (Queens),Increase,
+46,Bronx,City Island,7.0,22.0,15.0,214.28571428571428,False,22.0,2.0,9.090909090909092,City Island (Bronx),Increase,
+120,Manhattan,Highbridge Park,15.0,21.0,6.0,40.0,False,21.0,2.0,9.523809523809524,Highbridge Park (Manhattan),Increase,
+184,Bronx,Pelham Bay Park,2.0,16.0,14.0,700.0,False,16.0,0.0,0.0,Pelham Bay Park (Bronx),Increase,
+253,Queens,Willets Point,14.0,15.0,1.0,7.142857142857142,False,15.0,4.0,26.666666666666668,Willets Point (Queens),Increase,
+115,Staten Island,Grymes Hill/Clifton,2.0,14.0,12.0,600.0,False,14.0,3.0,21.428571428571427,Grymes Hill/Clifton (Staten Island),Increase,
+23,Staten Island,Bloomfield/Emerson Hill,4.0,14.0,10.0,250.0,False,14.0,1.0,7.142857142857142,Bloomfield/Emerson Hill (Staten Island),Increase,
+30,Queens,Broad Channel,3.0,12.0,9.0,300.0,False,12.0,1.0,8.333333333333332,Broad Channel (Queens),Increase,
+172,Staten Island,New Dorp/Midland Beach,2.0,12.0,10.0,500.0,False,12.0,1.0,8.333333333333332,New Dorp/Midland Beach (Staten Island),Increase,
+251,Staten Island,Westerleigh,5.0,11.0,6.0,120.0,False,11.0,1.0,9.090909090909092,Westerleigh (Staten Island),Increase,
+118,Staten Island,Heartland Village/Todt Hill,9.0,10.0,1.0,11.11111111111111,False,10.0,0.0,0.0,Heartland Village/Todt Hill (Staten Island),Increase,
+59,Bronx,Crotona Park,2.0,8.0,6.0,300.0,False,8.0,0.0,0.0,Crotona Park (Bronx),Increase,
+156,Staten Island,Mariners Harbor,4.0,7.0,3.0,75.0,False,7.0,1.0,14.285714285714285,Mariners Harbor (Staten Island),Increase,
+206,Staten Island,Saint George/New Brighton,6.0,7.0,1.0,16.666666666666664,False,7.0,3.0,42.857142857142854,Saint George/New Brighton (Staten Island),Increase,
+245,Staten Island,West Brighton,2.0,6.0,4.0,200.0,False,6.0,1.0,16.666666666666664,West Brighton (Staten Island),Increase,
+2,Queens,Jamaica Bay,3.0,6.0,3.0,100.0,False,6.0,1.0,16.666666666666664,Jamaica Bay (Queens),Increase,
+27,Queens,Breezy Point/Fort Tilden/Riis Beach,6.0,4.0,-2.0,-33.33333333333333,False,4.0,0.0,0.0,Breezy Point/Fort Tilden/Riis Beach (Queens),Decrease,
+109,Staten Island,Great Kills,1.0,4.0,3.0,300.0,False,4.0,1.0,25.0,Great Kills (Staten Island),Increase,
+204,Staten Island,Rossville/Woodrow,1.0,3.0,2.0,200.0,False,3.0,1.0,33.33333333333333,Rossville/Woodrow (Staten Island),Increase,
+111,Brooklyn,Green-Wood Cemetery,1.0,3.0,2.0,200.0,False,3.0,1.0,33.33333333333333,Green-Wood Cemetery (Brooklyn),Increase,
+44,Staten Island,Charleston/Tottenville,1.0,3.0,2.0,200.0,False,3.0,0.0,0.0,Charleston/Tottenville (Staten Island),Increase,
+5,Staten Island,Arden Heights,0.0,3.0,3.0,,False,3.0,0.0,0.0,Arden Heights (Staten Island),Increase,
+187,Staten Island,Port Richmond,2.0,2.0,0.0,0.0,False,2.0,0.0,0.0,Port Richmond (Staten Island),Increase,
+176,Staten Island,Oakwood,2.0,2.0,0.0,0.0,False,2.0,0.0,0.0,Oakwood (Staten Island),Increase,
+84,Staten Island,Eltingville/Annadale/Prince's Bay,2.0,1.0,-1.0,-50.0,False,1.0,0.0,0.0,Eltingville/Annadale/Prince's Bay (Staten Island),Decrease,
+199,Bronx,Rikers Island,2.0,1.0,-1.0,-50.0,False,1.0,1.0,100.0,Rikers Island (Bronx),Decrease,
+99,Staten Island,Freshkills Park,0.0,1.0,1.0,,False,1.0,0.0,0.0,Freshkills Park (Staten Island),Increase,
+105,Manhattan,Governor's Island/Ellis Island/Liberty Island,1.0,0.0,-1.0,-100.0,False,,,,Governor's Island/Ellis Island/Liberty Island (Manhattan),Decrease,
