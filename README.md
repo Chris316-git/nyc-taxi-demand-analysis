@@ -77,6 +77,12 @@ An interactive Tableau Public dashboard covers all three parts of the project: d
 - Dashboard 2: click a zone in the scatter plot to highlight it in the zone-change chart. Descriptive comparison only, not a causal estimate.
 - Dashboard 3: click an hour in the error chart to filter actual vs forecast; use the Day Type and Series controls to compare weekday/weekend and models.
 
+![Dashboard 1 - Demand patterns](images/dashboard1_demand_patterns.png)
+
+![Dashboard 2 - Congestion pricing (descriptive)](images/dashboard2_congestion_pricing.png)
+
+![Dashboard 3 - 24-hour demand forecast](images/dashboard3_forecast.png)
+
 The dashboard reads aggregated CSVs from `dashboard_data/`, produced by `export_tableau_data.py`. Build notes are in `TABLEAU_DASHBOARD_GUIDE.md`.
 
 ## Project Workflow
