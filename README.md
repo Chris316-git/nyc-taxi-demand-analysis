@@ -71,7 +71,7 @@ The gradient-boosting model:
 
 An interactive Tableau Public dashboard covers all three parts of the project: demand patterns, the January 2024 vs January 2025 congestion-pricing comparison, and the 24-hour-ahead forecast.
 
-**[Open the Tableau dashboard](https://public.tableau.com/app/profile/chris.li4492/viz/NYC_Taxi_Dashboard_17908364583570)**
+**[Open the Tableau dashboard](https://public.tableau.com/views/NYC_Taxi_Dashboard_17908364583570/Dashboard1-DemandPatterns)**
 
 - Dashboard 1: click a borough to filter the zone ranking and hourly heatmap.
 - Dashboard 2: click a zone in the scatter plot to highlight it in the zone-change chart. Descriptive comparison only, not a causal estimate.
